@@ -1491,6 +1491,8 @@ footer .socialmedia {
   align-items: flex-start;
   justify-content: space-evenly;
   flex-direction: column;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 .blog-wrapper .blog-title {
   margin-top: 60px;
@@ -1536,7 +1538,7 @@ footer .socialmedia {
   flex-direction: column;
   height: 380px;
   justify-content: space-between;
-  width: 800px;
+  width: 850px;
 }
 .blog-wrapper .blog-details .blog-right .blog-img {
   width: 100%;

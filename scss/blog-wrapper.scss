@@ -8,7 +8,8 @@
     align-items: flex-start;
     justify-content: space-evenly;
     flex-direction: column;
-    // padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
     // background-color: antiquewhite;
 
     .blog-title {
@@ -57,7 +58,7 @@
             flex-direction: column;
             height: 380px;
             justify-content: space-between;
-            width: 800px;
+            width: 850px;
 
 
             .blog-img {

@@ -1599,7 +1599,7 @@ footer .socialmedia {
 .contact-wrapper .contact-page .contact-right {
   display: flex;
   flex-direction: column;
-  min-width: 250px;
+  min-width: 300px;
   width: 520px;
   height: 530px;
   margin-left: 10px;
@@ -1646,6 +1646,14 @@ footer .socialmedia {
   margin-left: 10px;
 }
 
+@media screen and (max-width: 900px) {
+  .contact-left {
+    max-width: 300px;
+  }
+  iframe {
+    width: 300px;
+  }
+}
 .special-wrapper {
   position: relative;
   min-height: 80vh;

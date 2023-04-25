@@ -1,4 +1,4 @@
-export var wordArray = ["home", "about", "tour", "specialoffers", "blog", "contact"];
+export var wordArray = ["home", "about", "tour", "specialoffers", "blog", "contact", "israel", "usa", "australia", "zealand", "france", "egypt", "japan", "canada", "uae"];
 
 export function changeRoute() {
     let hashTag = window.location.hash;
